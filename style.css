@@ -15,7 +15,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background: linear-gradient(90deg, #ee5c87, #f1a4b5, #d587b3);
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
 }
 
 .content {
@@ -28,8 +28,8 @@ body {
     right: -50px;
     width: 30px;
     height: 100%;
-    background-color: #ee5c87;
-    box-shadow: 0 0 2px 2px #fad;
+    background-color: #FC466B;
+    box-shadow: 0 0 2px 2px #3F5EFB;
     
 }
 
